@@ -26,4 +26,5 @@
         </tbody>
     @endforeach
 </table>
+    {{$students->links()}}
 @endsection
